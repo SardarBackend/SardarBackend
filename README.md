@@ -66,6 +66,6 @@
 
 📧 **Email:** mhmdjwadsrdarabady01@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-📸 **Instagram:** [@your_username](https://instagram.com/sardarـdeveloper)  
-📱 **Telegram:** [@your_telegram_username](https://t.me/Sardarbackend)  
+📸 **Instagram:** [@sardarـdeveloper](https://instagram.com/sardarـdeveloper)  
+📱 **Telegram:** [@Sardarbackend](https://t.me/Sardarbackend)  
 ---
