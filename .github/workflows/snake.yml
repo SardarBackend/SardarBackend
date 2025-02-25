@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
+    - cron: "0 0 * * *"  # اجرای هر روز یک‌بار
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: Sardar-backend  
+          github_user_name: SardarBackend  # یوزرنیم خودت
           svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: actions/upload-artifact@v2
         with:
