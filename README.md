@@ -64,8 +64,8 @@
 
 ## 📫 How to Reach Me  
 
-📧 **Email:** your.email@example.com  
+📧 **Email:** mhmdjwadsrdarabady01@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-📸 **Instagram:** [@your_username](https://instagram.com/your_username)  
-📱 **Telegram:** [@your_telegram_username](https://t.me/your_telegram_username)  
+📸 **Instagram:** [@your_username](https://instagram.com/sardarـdeveloper)  
+📱 **Telegram:** [@your_telegram_username](https://t.me/Sardarbackend)  
 ---
