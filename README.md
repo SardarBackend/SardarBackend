@@ -34,7 +34,7 @@
 
 ## 🔥 Featured Projects  
 
-🚀 [**Med Kala**](https://github.com/Sardar-backend/ModKala)  
+🚀 [**Med Kala**](https://github.com/Sardar-backend/Pine-Aplle)  
 📌 **Scalable e-commerce website** powered by Laravel, designed for product showcasing and seamless transactions 
 
 🚀 [**Eli Shop**](https://github.com/Sardar-backend/EliShop)  
