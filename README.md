@@ -34,13 +34,13 @@
 
 ## 🔥 Featured Projects  
 
-🚀 [**Med Kala**](https://github.com/Sardar-backend/Pine-Aplle)  
+🚀 [**Pine Apple**](https://github.com/Sardar-backend/Pine-Apple)  
 📌 **Scalable e-commerce website** powered by Laravel, designed for product showcasing and seamless transactions 
 
-🚀 [**Eli Shop**](https://github.com/Sardar-backend/EliShop)  
+🚀 [**Eli Shop**](https://github.com/Sardar-backend/Eli-Shop)  
 📌 **E-commerce platform** built with Django, featuring product management, shopping cart, and authentication system  
 
-🚀 [**Rubik Market**](https://github.com/Sardar-backend/RubikMarket)  
+🚀 [**Rubik Market**](https://github.com/Sardar-backend/Rubik-Market)  
 📌 **Online marketplace** developed with Laravel, including order management, secure payments, and user authentication  
 
 ---
