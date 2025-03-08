@@ -58,7 +58,7 @@
 ## 📫 How to Reach Me  
 
 📧 **Email:** mhmdjwadsrdarabady01@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+💼 **LinkedIn:** [linkedin.com/in/sardar-backend](https://linkedin.com/in/sardar-backend)  
 📸 **Instagram:** [@sardarـdeveloper](https://instagram.com/sardarـdeveloper)  
 📱 **Telegram:** [@Sardarbackend](https://t.me/Sardarbackend)  
 ---
