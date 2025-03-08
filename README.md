@@ -34,11 +34,14 @@
 
 ## 🔥 Featured Projects  
 
-🚀 [**Eli Shop**](https://github.com/Sardar-backend/Eli-Shop)  
-📌 **Professional E-commerce Store** built with Laravel and Vue.js, featuring an admin panel, shopping cart, and payment gateway integration  
+🚀 [**Med Kala**](https://github.com/Sardar-backend/ModKala)  
+📌 **Scalable e-commerce website** powered by Laravel, designed for product showcasing and seamless transactions 
 
-🚀 [**Blog API**](https://github.com/Sardar-backend/Blog-API)  
-📌 **Complete API** for managing articles and users, built using Django Rest Framework  
+🚀 [**Eli Shop**](https://github.com/Sardar-backend/EliShop)  
+📌 **E-commerce platform** built with Django, featuring product management, shopping cart, and authentication system  
+
+🚀 [**Rubik Market**](https://github.com/Sardar-backend/RubikMarket)  
+📌 **Online marketplace** developed with Laravel, including order management, secure payments, and user authentication  
 
 ---
 
